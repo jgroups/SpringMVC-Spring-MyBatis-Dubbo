@@ -173,6 +173,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>project-component</finalName>
+        <finalName>${project.artifactId}</finalName>
     </build>
 </project>
